@@ -187,15 +187,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you find this project useful, please give it a star! ⭐
 
-## 📞 Contact
-
-Have questions or suggestions? Feel free to:
-- Open an issue
-- Start a discussion
-- Contact me directly
-
 ---
-
-**Made with ❤️ for the ASCII art community**
 
 *Experience 3D graphics in your terminal!*
