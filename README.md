@@ -200,15 +200,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you find this project useful, please give it a star! ⭐
 
-## 📞 Contact
-
-Have questions or suggestions? Feel free to:
-- Open an issue
-- Start a discussion
-- Contact me directly
-
 ---
 
+<<<<<<< HEAD
 **A Shkola Creation ❤️**
 
+=======
+>>>>>>> 5937825c3f2828080a1b3a37a9282752f9e95432
 *Experience 3D graphics in your terminal!*
