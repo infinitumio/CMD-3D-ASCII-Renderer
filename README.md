@@ -202,9 +202,6 @@ If you find this project useful, please give it a star! ⭐
 
 ---
 
-<<<<<<< HEAD
 **A Shkola Creation ❤️**
 
-=======
->>>>>>> 5937825c3f2828080a1b3a37a9282752f9e95432
 *Experience 3D graphics in your terminal!*
