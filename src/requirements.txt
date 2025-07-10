@@ -1,0 +1,20 @@
+# 3D ASCII Cube Renderer - Dependencies
+
+# This project uses only Python's standard library!
+# No external dependencies are required.
+
+# Minimum Python version: 3.7+
+# 
+# Standard library modules used:
+# - math: Mathematical operations and trigonometry
+# - os: Operating system interface (for terminal clearing)
+# - sys: System-specific parameters
+# - time: Time-related functions
+# - threading: Multi-threading support for input handling
+# - dataclasses: Data class decorator (Python 3.7+)
+# - typing: Type hints
+# - msvcrt: Windows-specific keyboard input (Windows only)
+# - termios, tty: Unix-specific terminal control (Linux/macOS fallback)
+
+# To run this project, simply execute:
+# python cube_renderer.py
