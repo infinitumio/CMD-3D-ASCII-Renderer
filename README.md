@@ -9,6 +9,14 @@ Transform your command prompt into an interactive 3D graphics engine! This proje
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![ASCII Graphics](https://img.shields.io/badge/Graphics-Pure%20ASCII-brightgreen)
 
+## 🎬 Demo
+
+| 3D Cube Rendering | Camera Movement |
+|-------------------|-----------------|
+| ![3D ASCII Cube](screenshots/demo1.gif) | ![Camera Movement](screenshots/demo2.gif) |
+
+*Real-time 3D wireframe cube rendering in Windows Command Prompt with free camera movement*
+
 ## ✨ Features
 
 - **Real-time 3D rendering** in Windows Command Prompt using ASCII characters
@@ -105,15 +113,20 @@ The renderer uses several key techniques:
 ## 📁 Project Structure
 
 ```
-command-prompt-3d-renderer/
-├── cmdASCIIRenderer.py  # Main Command Prompt 3D renderer
-├── start.bat            # Windows batch file for easy startup
-├── README.md            # This documentation
-├── LICENSE              # MIT license
-├── requirements.txt     # Dependencies (none needed!)
-├── .gitignore          # Git ignore rules
-├── setup.py            # Setup verification script
-└── screenshots/        # Demo images and GIFs
+CMD-3D-ASCII-Renderer/
+├── start.bat            # Main launcher - double-click to start!
+├── README.md            # Project overview and quick start
+├── screenshots/         # Demo GIFs and images
+│   ├── demo1.gif        # 3D cube rendering demo
+│   └── demo2.gif        # Camera movement demo
+└── src/                 # Source code and documentation
+    ├── cmdASCIIRenderer.py  # Main 3D renderer
+    ├── README.md            # Complete technical documentation
+    ├── setup.py             # System compatibility check
+    ├── requirements.txt     # Dependencies (none needed!)
+    ├── LICENSE              # MIT license
+    ├── .gitignore          # Git ignore rules
+    └── screenshots/        # Additional screenshots
 ```
 
 ## 🎨 Customization
@@ -196,6 +209,6 @@ Have questions or suggestions? Feel free to:
 
 ---
 
-**Made with ❤️ for the ASCII art community**
+**A Shkola Creation ❤️**
 
 *Experience 3D graphics in your terminal!*
