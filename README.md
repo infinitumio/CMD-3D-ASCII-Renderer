@@ -86,7 +86,7 @@ The renderer uses several key techniques:
 5. **Double Buffering**: Prevents flickering with optimised rendering
 6. **ANSI Escape Sequences**: Smooth terminal control without screen clearing
 
-## 🛠️ Technical Details
+## Technical Details
 
 ### Command Prompt Optimisation
 - **ANSI Escape Sequences**: Uses `\033[H` for cursor positioning instead of `cls`
