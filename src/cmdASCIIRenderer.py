@@ -12,7 +12,6 @@ Features:
 - Windows msvcrt keyboard handling for responsiveness
 - Pure ASCII wireframe graphics with depth perception
 
-Author: GitHub Copilot & User
 License: MIT
 Platform: Windows Command Prompt (CMD.EXE)
 """
